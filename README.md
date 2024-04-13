@@ -31,4 +31,4 @@ Here is the list of my roadmap
 [AuthenticationDef]: /docs/vi/Authentication.md
 [Cachingef]: /docs/vi/Caching.md
 [Databaseef]: /docs/vi/Database.md
-[Scaleef]; /docs/vi/Scale.md
+[Scaleef]: /docs/vi/Scale.md
