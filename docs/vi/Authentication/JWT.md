@@ -25,4 +25,5 @@ Payload: còn gọi là ourDâta, là chuỗi base64, chứa các thông tin nh�
 Signature: được tạo ra bơi hashing ở header, giúp cho server verify tokens
 
 ![alt text](/docs/sources/characterstics-of-JWT.png)
+
 ref: https://roadmap.sh/guides/jwt-authentication.png
