@@ -24,4 +24,5 @@ Header: chuỗi base64 được generated, gọi là tokenMeta. chưa token type
 Payload: còn gọi là ourDâta, là chuỗi base64, chứa các thông tin như userID, ngày hết hạn token, v.v
 Signature: được tạo ra bơi hashing ở header, giúp cho server verify tokens
 
+![alt text](/docs/sources/characterstics-of-JWT.png)
 ref: https://roadmap.sh/guides/jwt-authentication.png
