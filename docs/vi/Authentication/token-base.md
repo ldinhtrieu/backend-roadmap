@@ -18,7 +18,7 @@ Client gửi thông tin danh tính đến sever để tạo token (có thể là
 
 Token thường được phía client lưu ở cookie hoặc local storage
 
-![alt text](token-base-work.png)
+![alt text](/docs/sources/token-base-work.png)
 
 # Đặc trưng của token
 
@@ -28,6 +28,6 @@ Token thường được phía client lưu ở cookie hoặc local storage
 - Thường được client gửi trong header
 - Client thường được login và được tin tưởng bơi server
 
-![alt text](characterstics-of-token.png)
+![alt text](/docs/sources/characterstics-of-token.png)
 
 ref: https://roadmap.sh/guides/token-authentication
