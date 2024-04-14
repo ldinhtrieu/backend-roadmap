@@ -24,7 +24,7 @@ Here is the list of my roadmap
 - [Authentication][AuthenticationDef]
 - [Caching][Cachingef]
 - [More about Database][Databaseef]
-- [Buiding for Scale][Scaleef]
+- [Building for Scale][Scaleef]
 
 #### Update At: 13-04-2024
 
