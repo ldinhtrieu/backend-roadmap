@@ -1,14 +1,13 @@
-# Authentication - Xác thực
+# Authentication
 
-- Là một tiến trình validates danh tính của client đang cố gắng kết nối tới sever bằng authentication protocol.
-- Thông tin xác thực được gửi tới từ client yêu cầu kết nối tới server có thể là văn bản thuần hoặc được mã hoá.
+//TODO
 
-## Các dạng phổ biến của authentication:
+## the list of common ways of authentication:
 
 - [Token based Authentication][token-base-authentication-md]
 - [JWT Authentication][JWT-authentication-md]
 - [Session based Authentication][Session-base-authentication-md]
-- [OAuth - Open Authorization][Open-Authorization-md] (uỷ quyền cho bên khác xác thực)
+- [OAuth - Open Authorization][Open-Authorization-md]
 - [SSO - Single Sign On][SSO-md]
 
 [token-base-authentication-md]: Authentication/token-base.md
