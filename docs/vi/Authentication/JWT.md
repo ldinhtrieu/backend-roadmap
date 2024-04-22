@@ -26,6 +26,6 @@ Signature: được tạo ra bơi hashing ở header, giúp cho server verify to
 
 ![alt text](/docs/sources/characterstics-of-JWT.png)
 
-iểm khác biệt chính giữa session-based authentication và JWT là cách thông tin xác thực được lưu trữ và quản lý. Session-based sử dụng máy chủ để lưu trữ thông tin phiên, trong khi JWT mã hóa thông tin xác thực vào token và không cần lưu trữ trạng thái phiên trên máy chủ. Lựa chọn giữa hai phương pháp này thường phụ thuộc vào nhu cầu của ứng dụng và yêu cầu về quản lý trạng thái phiên.
+Điểm khác biệt chính giữa session-based authentication và JWT là cách thông tin xác thực được lưu trữ và quản lý. Session-based sử dụng máy chủ để lưu trữ thông tin phiên, trong khi JWT mã hóa thông tin xác thực vào token và không cần lưu trữ trạng thái phiên trên máy chủ. Lựa chọn giữa hai phương pháp này thường phụ thuộc vào nhu cầu của ứng dụng và yêu cầu về quản lý trạng thái phiên.
 
 ref: https://roadmap.sh/guides/jwt-authentication.png
